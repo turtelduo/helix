@@ -5,4 +5,4 @@
 - :hotdog: https://hotdogs.no
 
 
-# updated 123
+# updated 2025
