@@ -3,6 +3,3 @@
 - :wrench: https://helixhelp.com/tips-and-guides/helix/welcome
 - :memo: https://hmon.ir/helix/fx_finder.htm
 - :hotdog: https://hotdogs.no
-
-
-# updated 2025!!!
