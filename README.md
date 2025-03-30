@@ -6,45 +6,35 @@
 
 - ## Test of Table
  
+The Allure Pack is a set of free IRs (impulse responses) created by Dan Boul of 65 Amps (http://65amps.com). Its goal is to emulate the unique dynamic mic’ing style of a world-famous producer known for his impressive guitar tones.
 
- | References | Value    | Footprint              | Notes               |
- | :--------- | :------- | :--------------------- | :------------------ |
- | C1         | 47N      | Film Capacitor         |                     |
- | C2         | 100N     | Film Capacitor         |                     |
- | C3         | 4N7      | Film Capacitor         |                     |
- | C4         | 4N7      | Film Capacitor         |                     |
- | C5         | 100N     | Film Capacitor         |                     |
- | D100       | LED      | 3MM LED                | Bypass indicator    |
- | D101       | 1N5817   | Diode                  | Polarity Protection |
- | R1         | 1M       | 1/4W Resistor          |                     |
- | R2         | 1M       | 1/4W Resistor          |                     |
- | R3         | 47K      | 1/4W Resistor          |                     |
- | R4         | 47K      | 1/4W Resistor          |                     |
- | R5         | 680K     | 1/4W Resistor          |                     |
- | U1         | TL072    | IC                     |                     |
+| Filename                           | Origin                    | Notes                                          | 
+| :--------------------------------- | :------------------------ | :--------------------------------------------- | 
+| Allure_59_Tweed_P10N.wav           | Line 6 Allure IR Pack     | https://line6.com/allure/                      |
+| Allure_64_A30_G12.wav              | Line 6 Allure IR Pack     | https://line6.com/allure/                      | 
+| Allure_64_USDeluxe_P12N.wav        | Line 6 Allure IR Pack     | https://line6.com/allure/                      | 
+| Allure_67_Brit_Greenback.wav       | Line 6 Allure IR Pack     | https://line6.com/allure/                      | 
+| Allure_70s_WhoWatt_100.wav         | Line 6 Allure IR Pack     | https://line6.com/allure/                      | 
+| Allure_90s_Cali_V30.wav            | Line 6 Allure IR Pack     | https://line6.com/allure/                      | 
+| Celestion Vintage 30.wav           | ?                         | ?                                              | 
+| Cenzo Celestion V30 Mix.wav        | Cenzo Townsend            | https://www.celestionplus.com/free-download/   | 
+| OH 412 MES-ST V60 421-04.wav       | OwnHammer                 | https://ownhammer.com/                         |
+| OH 412 MES-ST V60 57-00.wav        | OwnHammer                 | https://ownhammer.com/                         | 
+| OH 412 TRAD V30-MB1 L BALANCED.wav | OwnHammer                 | https://ownhammer.com/                         | 
  
  
- ### Not listed
- 
- As with most guitar pedal BOMs, the following components are not listed above:
- 
- * Footswitch
- * DC Jack
- * 2x 1/4" audio jack
- * Enclosure: this pedal fits into a 125B enclosure.
- * Sockets (for the ICs).
- * Wire
- * Solder
- 
- 
+## Favourite HELIX-patch
+* Texas Blues.hlx
 
- ## Licensing
+## Some links to Free IR's
+* https://overdriven.fr/overdriven/
+* https://www.acousticir.ovh/
+* https://redwirez.com/pages/the-marshall-1960a-ir-pack
+
+## Licensing
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This stuff is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
  
- [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
- 
- This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
- 
- ## Versions
- 
- * V1.0 - First public version.
- * V0.9 - First draft version.
+## Versions
+* V1.0 - First public version.
+* V0.9 - First draft version.
