@@ -1,5 +1,0 @@
-The Powercab 112 Plus device can import IRs by way of the Powercab Edit software.
-It is possible to import any mono or stereo .wav file IR, regardless of its bit depth, length, or sample rate frequency.
-Once imported, the .wav files are automatically conformed to the compatible IR properties (48kHz, 24-bit, mono, 2048 samples).
-2048/48000 ~ 43ms
-
