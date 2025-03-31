@@ -5,15 +5,27 @@
 - :hotdog: https://hotdogs.no
 
 Table of Contents
-1. [The Allure Pack](#TheAllurePack )
-2. [Other favourite IR's](#Other-favourite-IR's)
-3. [My Favourite HELIX-patch](#My%20Favourite%20HELIX-patch)
-4. [Some links to Free IR's](#Some-links to Free IR's)
-5. [Versions](#Versions)
+1. [Some notes on the IR formats](#some-notes-on-the-ir-formats)
+2. [The Allure Pack](#the-allure-pack)
+3. [Other favourite IR's](#other-favourite-irs)
+4. [My Favourite HELIX-patch](#my-favourite-helix-patch)
+5. [Some links to Free IR's](#some-links-to-free-irs)
+6. [Licensing](#licensing)
+7. [Versions](#versions)
+
+## Some notes on the IR formats
+### Helix (mono_16bit_48kHz_200ms_2048)
+Helix supports nearly all IRs in .WAV format. However, the Helix Edit application may automatically change its attributes before sending it to the Helix hardware:
+* Converts all .WAV IRs to 16-bit, 48kHz mono; when loading a stereo file, Helix Edit uses only the left side.
+* Shortens (or lengthens) the IR to 2,048 samples. The user may choose a 1,024-sample version to save DSP, which fades out the IR halfway through.
+
+### Powercab (mono_24bit_48000Hz_43ms_2048)
+The Powercab 112 Plus device can import IRs by way of the Powercab Edit software.
+It is possible to import any mono or stereo .wav file IR, regardless of its bit depth, length, or sample rate frequency.
+Once imported, the .wav files are automatically conformed to the compatible IR properties (48kHz, 24-bit, mono, 2048 samples, aka 2048/48000 ~ 43ms)
 
 ## The Allure Pack 
- The Allure Pack is a set of free IRs (impulse responses) created by Dan Boul of 65 Amps (http://65amps.com). Its goal is to emulate the unique dynamic mic’ing style of a world-famous producer known for his 
- impressive guitar tones.
+The Allure Pack is a set of free IRs (impulse responses) created by Dan Boul of [65 Amps](http://65amps.com). Its goal is to emulate the unique dynamic mic’ing style of a world-famous producer known for his impressive guitar tones.
 
 | Filename                                                                                                                        | Origin                    | Notes                                          | 
 | :---------------------------------                                                                                              | :------------------------ | :--------------------------------------------- | 
@@ -47,4 +59,5 @@ Table of Contents
 This stuff is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
  
 ## Versions
-* V1.0 - This version
+* v1.1 - Added TOC and merged some more text
+* v1.0 - First version
