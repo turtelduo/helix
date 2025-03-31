@@ -6,9 +6,9 @@
 
 Table of Contents
 1. [The Allure Pack](#TheAllurePack )
-2. [Other favourite IR's](#OtherfavouriteIR's)
-3. [My Favourite HELIX-patch](#MyFavouriteHELIX-patch)
-4. [Some links to Free IR's](#SomelinkstoFreeIR's)
+2. [Other favourite IR's](#Other-favourite-IR's)
+3. [My Favourite HELIX-patch](#My%20Favourite%20HELIX-patch)
+4. [Some links to Free IR's](#Some-links to Free IR's)
 5. [Versions](#Versions)
 
 ## The Allure Pack 
