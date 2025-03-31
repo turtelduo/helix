@@ -1,5 +1,0 @@
-Helix supports nearly all IRs in .WAV format. However, the Helix Edit application may
-automatically change its attributes before sending it to the Helix hardware:
-
-* Converts all .WAV IRs to 16-bit, 48kHz mono; when loading a stereo file, Helix Edit uses only the left side
-* Shortens (or lengthens) the IR to 2,048 samples. The user may choose a 1,024-sample version to save DSP, which fades out the IR halfway through
