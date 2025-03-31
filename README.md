@@ -48,7 +48,7 @@ The Allure Pack is a set of free IRs (impulse responses) created by Dan Boul of 
  
 ## My Favourite HELIX-patch
 ![Texas Blues](./Texas_Blues.png)
-This consist of two amps in parallel; Line 6 Litigator and Brit J45. Teemah!, Minotaur, Trinity Chorus, Tape Delay and '63 spring reverb, 4x12 Blackback 30 Cab. (Think ZZ Top)
+This consist of two amps in parallel; Line 6 Litigator and Brit J45. Teemah!, Minotaur, Trinity Chorus, Tremolo, Tape Delay and '63 spring reverb, 4x12 Blackback 30 Cab. (Think ZZ Top)
 * [Texas Blues.hlx](./Texas%20Blues.hlx)  
 
 ## Some links to Free IR's
